@@ -7,3 +7,6 @@ It is an wheather application shows wheather report of different states of India
 
 Taking other country wheather condition as 1
 ![Screenshot 2023-07-06 143259](https://github.com/Beyound3d/Check-Me-Wheather/assets/129869652/70e0d343-6bd7-4ce7-8eb5-8be94073b601)
+
+# NOTE:
+I use rapid API in this project.
